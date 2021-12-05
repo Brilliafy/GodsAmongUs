@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GodsAmongUs:jar">
+    <output-path>$PROJECT_DIR$/out/GodsAmongUs_jar</output-path>
+    <root id="archive" name="GodsAmongUs.jar">
+      <element id="module-output" name="GodsAmongUs" />
+    </root>
+  </artifact>
+</component>

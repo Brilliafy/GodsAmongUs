@@ -1,0 +1,10 @@
+name: GodsAmongUs
+main: godswrath.tut.Main
+version: 1.0
+description: This plugin adds the Gods in the world to mess with human fate.
+api-version: 1.17
+commands:
+  invokegods:
+    description: Invokes the fortune of the GODS into the game
+    usage: /invokegods
+    permission: GodsAmongUs.invokegods
